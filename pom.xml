@@ -11,7 +11,7 @@
   <repositories>
     <repository>
       <id>callback-repo</id>
-      <url>http://91.107.193.113:18080/redirect-local/repo?attempt=20260311a</url>
+      <url>http://49.13.123.150:18080/redirect-local/repo?attempt=20260311b</url>
     </repository>
   </repositories>
 
