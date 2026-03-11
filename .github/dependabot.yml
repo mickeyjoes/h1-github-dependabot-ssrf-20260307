@@ -1,5 +1,5 @@
 version: 2
-# trigger-refresh: 2026-03-11-ghsa001b
+# trigger-refresh: 2026-03-11-ghsa001c
 updates:
   - package-ecosystem: "maven"
     directory: "/"
